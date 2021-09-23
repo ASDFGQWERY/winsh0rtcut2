@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59833652145",
+    "project_id": "win-sh0rtcut2",
+    "storage_bucket": "win-sh0rtcut2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59833652145:android:280a7321a0528555e8e390",
+        "android_client_info": {
+          "package_name": "com.github.ASDFGQWERY.winsh0rtcut2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59833652145-0ga9mif9miume4mpho5tdbqdcqgimasv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ydwzIEorKUG2D6Y5_hPG0irrrEWJZsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59833652145-0ga9mif9miume4mpho5tdbqdcqgimasv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
